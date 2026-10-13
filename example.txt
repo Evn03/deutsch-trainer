@@ -1,0 +1,15 @@
+[der Mann, der Tag, der Baum, die Frau, die Nacht, die Blume, das Kind, das Haus, das Buch]
+Правильный ответ:
+М.Р: Mann, Tag, Baum
+Ж.Р: Frau, Nacht, Blume
+Ср.Р: Kind, Haus, Buch
+Перевод слов:
+Mann - Мужчина
+Tag - День
+Baum - Дерево
+Frau - Женщина
+Nacht - Ночь
+Blume - Цветок
+Kind - Ребёнок
+Haus - Дом
+Buch - Книга
